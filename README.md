@@ -1,6 +1,5 @@
 # Country-App
 
-# weather-App
 
 <div id="top"></div>
 
@@ -9,7 +8,7 @@
 
 <div align="center">
    <a href="#">
-    <img src="https://api-ninjas.com/" alt="Logo" width="100" height="100">
+    <img src="https://api-ninjas.com.png/" alt="Logo" width="100" height="100">
    </a>
 
 <h3 align="center">Country app</h3>
@@ -46,7 +45,6 @@
 
 * Visual Studio Code
 * Git and GitHub
-* Webpack
 * ESLint + Airbnb JavaScript Style Guide
 * Prettier
 
