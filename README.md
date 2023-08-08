@@ -8,7 +8,7 @@
 
 <div align="center">
    <a href="#">
-    <img src="https://api-ninjas.com.png/" alt="Logo" width="100" height="100">
+    <img src="https://www.pinterest.com/pin/423549539966716514/" alt="Logo" width="100" height="100">
    </a>
 
 <h3 align="center">Country app</h3>
